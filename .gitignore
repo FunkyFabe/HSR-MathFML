@@ -1,0 +1,11 @@
+# gtt configuration
+.gtt.yml
+
+# ide
+.idea/
+
+# __pycache__
+__pycache__
+
+# misc
+.DS_Store
